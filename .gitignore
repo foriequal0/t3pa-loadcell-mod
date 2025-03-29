@@ -3,3 +3,9 @@ _autosave-*
 fp-info-cache
 *-backups/
 ~*.lck
+*.tmp
+*.zip
+
+*.gbr
+*.gbrjob
+*.drl
